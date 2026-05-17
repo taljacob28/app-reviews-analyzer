@@ -1,0 +1,39 @@
+# Data scraping
+google-play-scraper>=1.2.7
+
+# Data manipulation
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Machine learning
+scikit-learn>=1.3.0
+
+# NLP and Hebrew language support
+transformers>=4.30.0
+torch>=2.0.0
+langdetect>=1.0.9
+emoji>=2.8.0
+
+# LLM topic labeling
+anthropic>=0.40.0
+
+# Storage and database
+SQLAlchemy>=2.0.0
+pyodbc>=5.0.0
+
+# Financial data
+yfinance>=0.2.30
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+
+# Notebooks
+jupyter>=1.0.0
+ipykernel>=6.25.0
+
+# Utilities
+python-dotenv>=1.0.0
+tqdm>=4.65.0

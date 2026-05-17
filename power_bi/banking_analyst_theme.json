@@ -1,0 +1,47 @@
+{
+    "name": "Banking Analyst Navy Gold",
+    "dataColors": [
+        "#1A3A5C",
+        "#C9A14A",
+        "#4A7BA8",
+        "#7A8B99",
+        "#D4B976",
+        "#5E7A8E",
+        "#8E6A2E",
+        "#3D5A75",
+        "#A8C5E0",
+        "#B89968",
+        "#E0CD93"
+    ],
+    "background": "#FFFFFF",
+    "foreground": "#1A1A1A",
+    "tableAccent": "#1A3A5C",
+    "good": "#2E7D32",
+    "neutral": "#9E9E9E",
+    "bad": "#C62828",
+    "maximum": "#1A3A5C",
+    "center": "#E8E8E8",
+    "minimum": "#C9A14A",
+    "textClasses": {
+        "callout": {
+            "fontFace": "Segoe UI Light",
+            "fontSize": 36,
+            "color": "#1A3A5C"
+        },
+        "title": {
+            "fontFace": "Segoe UI Semibold",
+            "fontSize": 14,
+            "color": "#1A3A5C"
+        },
+        "header": {
+            "fontFace": "Segoe UI Semibold",
+            "fontSize": 12,
+            "color": "#1A3A5C"
+        },
+        "label": {
+            "fontFace": "Segoe UI",
+            "fontSize": 10,
+            "color": "#5A5A5A"
+        }
+    }
+}
