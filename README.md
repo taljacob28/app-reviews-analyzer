@@ -247,7 +247,7 @@ app-reviews-analyzer/
 
 ## Contact
 
-**Tal Jacob**, Data Analyst.
+**Tal Jacob**.
 
 - Email: taljacob28@gmail.com
 - GitHub: [github.com/taljacob28](https://github.com/taljacob28)
